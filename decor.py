@@ -12,29 +12,3 @@ def logger(path):
             return result
         return new_function
     return new_logger
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
